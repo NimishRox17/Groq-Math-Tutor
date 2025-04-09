@@ -1,4 +1,5 @@
-an intelligent, Groq-powered Math Tutor web application that allows users to input math problems via image uploads or voice commands and receive instant solutions with explanations. The application leverages OCR (Optical Character Recognition) and speech recognition to understand user queries, then uses Groq’s AI model (via an API) to generate real-time feedback and step-by-step solutions. This makes the tool highly useful for students, educators, and learners who want help with understanding and solving math problems interactively.
+#Groq AI Math Tutor
+An intelligent, Groq-powered Math Tutor web application that allows users to input math problems via image uploads or voice commands and receive instant solutions with explanations. The application leverages OCR (Optical Character Recognition) and speech recognition to understand user queries, then uses Groq’s AI model (via an API) to generate real-time feedback and step-by-step solutions. This makes the tool highly useful for students, educators, and learners who want help with understanding and solving math problems interactively.
 
 This project runs on a Flask web backend and a simple HTML/CSS frontend, integrated with several powerful Python libraries and AI technologies.
 
