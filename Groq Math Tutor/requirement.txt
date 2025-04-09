@@ -1,0 +1,7 @@
+pip install flask
+pip install sympy
+pip install pytesseract
+pip install SpeechRecognition
+pip install openai
+pip install python-dotenv
+pip install pillow
